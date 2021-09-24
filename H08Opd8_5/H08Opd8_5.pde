@@ -1,10 +1,10 @@
-size (200,200);
+size (1600,1200);
 background (255,255,255);
 
-int sizeC = 100;
+int sizeC = 600;
 
-for(int i = 0; i <5; i++){
- ellipse(100,100, sizeC,sizeC);
+for(int i = 0; i <50; i++){
+ ellipse(800,600, sizeC,sizeC);
  sizeC-=10;
   
 }
